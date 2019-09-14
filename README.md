@@ -8,6 +8,6 @@ You can find the latest alpha versions on [CurseForge](https://www.curseforge.co
 
 Thanks [OligoFriends](https://www.wowinterface.com/forums/member.php?u=249441) for the original concept and the art design.
 
-**Note:** This is the Classic version of [EnhancedClassIconPortraits](https://github.com/Choonster-WoW-AddOns/EnhancedClassIconPortraits).
+**Note:** This is designed for Classic. See [EnhancedClassIconPortraits](https://github.com/Choonster-WoW-AddOns/EnhancedClassIconPortraits) for the Retail version of this AddOn.
 
 The AddOn and its source code are licensed under the terms of the MIT License, detailed in LICENSE.txt
