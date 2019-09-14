@@ -1,0 +1,4 @@
+- Set PlayerFrame to 1.6 scale
+- Set PlayerFrame.portrait to appropriate texture
+- Take screenshot
+- Open screenshot in GIMP and create a selection at 36, 27 with dimensions 150x150
