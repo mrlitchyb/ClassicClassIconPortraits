@@ -1,0 +1,13 @@
+Texture contributors:
+- DEATHKNIGHT - OligoFriends (based on icon from World of Warcraft)
+- DEMONHUNTER - OligoFriends (based on icon from World of Warcraft)
+- DRUID - OligoFriends (based on icon from World of Warcraft)
+- HUNTER - OligoFriends (based on icon from World of Warcraft)
+- MAGE - OligoFriends (based on icon from World of Warcraft)
+- MONK - OligoFriends (based on icon from World of Warcraft)
+- PALADIN - OligoFriends (based on icon from World of Warcraft)
+- PRIEST - OligoFriends (based on icon from World of Warcraft)
+- ROGUE - OligoFriends (based on icon from World of Warcraft)
+- SHAMAN - OligoFriends (based on icon from World of Warcraft)
+- WARLOCK - OligoFriends (based on icon from World of Warcraft)
+- WARRIOR - OligoFriends (based on icon from World of Warcraft)

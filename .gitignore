@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!.gitattributes
+!ClassicClassIconPortraits.toc
+!core.lua
+!Textures/
+!Screenshots/
+!README.md
+!CHANGELOG.md
+!LICENSE.txt
+!CONTRIBUTORS.md
+!.pkgmeta
+!.travis.yml
