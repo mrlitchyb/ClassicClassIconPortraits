@@ -5,6 +5,6 @@
 ## Version: @project-version@
 
 ## X-Curse-Project-ID: 341472
-## X-WoWI-ID: 
+## X-WoWI-ID: 25299
 
 core.lua

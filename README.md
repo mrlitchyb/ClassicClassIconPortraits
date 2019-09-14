@@ -2,7 +2,7 @@
 
 Inspired by AddOns like [ClassIconNotPortrait](https://wow.curseforge.com/projects/classiconnotportrait) and [sfClassIconPortraits](https://www.wowinterface.com/downloads/info23852-sfClassIconPortraits.html). Code adapted from [ClassIconNotPortrait](https://wow.curseforge.com/projects/classiconnotportrait).
 
-You can download the AddOn from [CurseForge](https://www.curseforge.com/wow/addons/classicclassiconportraits) or [WoW Interface]().
+You can download the AddOn from [CurseForge](https://www.curseforge.com/wow/addons/classicclassiconportraits) or [WoW Interface](https://www.wowinterface.com/downloads/info25299-ClassicClassIconPortraits.html).
 
 You can find the latest alpha versions on [CurseForge](https://www.curseforge.com/wow/addons/classicclassiconportraits) and the source code on [GitHub](https://github.com/Choonster-WoW-AddOns/ClassicClassIconPortraits).
 
