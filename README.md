@@ -8,7 +8,8 @@ You can find the latest alpha versions on [CurseForge](https://www.curseforge.co
 
 Thanks [OligoFriends](https://www.wowinterface.com/forums/member.php?u=249441) for the original concept and the art design.
 
-Thanks Harlan Elam (https://dribbble.com/shots/6175355-World-of-Warcraft-Vector-Class-Icons) for the clean icons!
+Thanks Harlan Elam (https://dribbble.com/shots/6175355-World-of-Warcraft-Vector-Class-Icons) for the awesome clean icons!
+<img src="https://cdn.dribbble.com/users/51726/screenshots/6175355/wow-class_icons.png">
 
 **Note:** This is designed for Classic. See [EnhancedClassIconPortraits](https://github.com/Choonster-WoW-AddOns/EnhancedClassIconPortraits) for the Retail version of this AddOn.
 
